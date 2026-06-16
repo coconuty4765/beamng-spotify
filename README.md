@@ -6,7 +6,7 @@ How to use:
 
 ## Important
 Once you've logged into the spotify dashboard, go into `Edit Settings` and set the callback
-![](https://imgur.com/5blxlBG.png)
+![](https://i.imgur.com/Li0vReb.png)
 
 ## In-Game
 ![](https://imgur.com/IoVlERH.png)
