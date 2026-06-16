@@ -1,2 +1,0 @@
-load("spotify")
-registerCoreModule("spotify")
